@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:44.629337
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 無量大慈教經
 #+PROPERTY: CBETA_ID T85n2903
 #+PROPERTY: ID KR6u0039
