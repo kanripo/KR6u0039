@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:44.629337
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 無量大慈教經
 #+PROPERTY: CBETA_ID T85n2903
 #+PROPERTY: ID KR6u0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2903
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0039_T_000-1445a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0039_T_001-1445a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2903¶
-
- 佛說無量大慈教經¶
+No. 2903¶
+佛說無量大慈教經¶
 ¶
 
 有。爾時阿難白佛言。世尊。唯有闡提眾生。¶
@@ -79,7 +78,7 @@ No.2903¶
 捉得苦刑。印面非理苦持。佛語菩薩。伽藍中¶
 二種心。一者善心。二者惡心。云何為惡人。若¶
 有眾生入寺之時。唯從眾僧乞索。或求僧長¶
-短或噉德食都無慚愧。餅果菜茹懷狹歸家。¶
+短或噉德食都無漸愧。餅果菜茹懷狹歸家。¶
 如此之死墮鐵叉地獄。云何名為善人。若有¶
 眾生入寺之時。見僧恭敬。見佛禮拜。受戒懺¶
 悔。捨於財物。經營三寶。不惜身命。護持大法。¶
